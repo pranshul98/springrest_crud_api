@@ -11,7 +11,6 @@ import java.util.stream.Collectors;
 public class CourseServiceImpl implements CourseService {
 
     List<Courses> list;
-    private Courses updatedCourse;
 
     public CourseServiceImpl() {
 
